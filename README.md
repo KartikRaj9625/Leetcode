@@ -11,6 +11,7 @@
 | [0268-missing-number](https://github.com/KartikRaj9625/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KartikRaj9625/Leetcode/tree/master/0283-move-zeroes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KartikRaj9625/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1480-running-sum-of-1d-array](https://github.com/KartikRaj9625/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,4 +74,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/KartikRaj9625/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/KartikRaj9625/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
