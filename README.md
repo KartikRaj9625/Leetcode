@@ -17,6 +17,7 @@
 | [0141-linked-list-cycle](https://github.com/KartikRaj9625/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KartikRaj9625/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/KartikRaj9625/Leetcode/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/KartikRaj9625/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -56,4 +57,16 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/KartikRaj9625/Leetcode/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/KartikRaj9625/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/KartikRaj9625/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/KartikRaj9625/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
