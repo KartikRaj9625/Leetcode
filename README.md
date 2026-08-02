@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/KartikRaj9625/Leetcode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/KartikRaj9625/Leetcode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/KartikRaj9625/Leetcode/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KartikRaj9625/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KartikRaj9625/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/KartikRaj9625/Leetcode/tree/master/0189-rotate-array) |
@@ -58,6 +59,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/KartikRaj9625/Leetcode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/KartikRaj9625/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -83,4 +85,5 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/KartikRaj9625/Leetcode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/KartikRaj9625/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
