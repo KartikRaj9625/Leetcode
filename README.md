@@ -100,6 +100,7 @@
 | [0113-path-sum-ii](https://github.com/KartikRaj9625/Leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KartikRaj9625/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/KartikRaj9625/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/KartikRaj9625/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/KartikRaj9625/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -125,6 +126,7 @@
 | [0113-path-sum-ii](https://github.com/KartikRaj9625/Leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KartikRaj9625/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/KartikRaj9625/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/KartikRaj9625/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/KartikRaj9625/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -136,8 +138,13 @@
 | [0113-path-sum-ii](https://github.com/KartikRaj9625/Leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KartikRaj9625/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/KartikRaj9625/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/KartikRaj9625/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/KartikRaj9625/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/KartikRaj9625/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
