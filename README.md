@@ -10,6 +10,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KartikRaj9625/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KartikRaj9625/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/KartikRaj9625/Leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/KartikRaj9625/Leetcode/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/KartikRaj9625/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KartikRaj9625/Leetcode/tree/master/0283-move-zeroes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KartikRaj9625/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -114,6 +115,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/KartikRaj9625/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/KartikRaj9625/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/KartikRaj9625/Leetcode/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/KartikRaj9625/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/KartikRaj9625/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -143,6 +145,7 @@
 | [0112-path-sum](https://github.com/KartikRaj9625/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/KartikRaj9625/Leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KartikRaj9625/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0200-number-of-islands](https://github.com/KartikRaj9625/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/KartikRaj9625/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/KartikRaj9625/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
@@ -155,4 +158,12 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/KartikRaj9625/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/KartikRaj9625/Leetcode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/KartikRaj9625/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
