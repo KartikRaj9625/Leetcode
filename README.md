@@ -14,6 +14,7 @@
 | [0268-missing-number](https://github.com/KartikRaj9625/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KartikRaj9625/Leetcode/tree/master/0283-move-zeroes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KartikRaj9625/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0994-rotting-oranges](https://github.com/KartikRaj9625/Leetcode/tree/master/0994-rotting-oranges) |
 | [1480-running-sum-of-1d-array](https://github.com/KartikRaj9625/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -117,6 +118,7 @@
 | [0112-path-sum](https://github.com/KartikRaj9625/Leetcode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/KartikRaj9625/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/KartikRaj9625/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0994-rotting-oranges](https://github.com/KartikRaj9625/Leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -166,4 +168,5 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/KartikRaj9625/Leetcode/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/KartikRaj9625/Leetcode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
