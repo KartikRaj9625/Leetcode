@@ -118,6 +118,7 @@
 | [0112-path-sum](https://github.com/KartikRaj9625/Leetcode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/KartikRaj9625/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/KartikRaj9625/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/KartikRaj9625/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/KartikRaj9625/Leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
@@ -150,6 +151,7 @@
 | [0200-number-of-islands](https://github.com/KartikRaj9625/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/KartikRaj9625/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/KartikRaj9625/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/KartikRaj9625/Leetcode/tree/master/0785-is-graph-bipartite) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -164,9 +166,22 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/KartikRaj9625/Leetcode/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/KartikRaj9625/Leetcode/tree/master/0785-is-graph-bipartite) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/KartikRaj9625/Leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/KartikRaj9625/Leetcode/tree/master/0994-rotting-oranges) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/KartikRaj9625/Leetcode/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/KartikRaj9625/Leetcode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/KartikRaj9625/Leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
