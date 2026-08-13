@@ -120,6 +120,7 @@
 | [0130-surrounded-regions](https://github.com/KartikRaj9625/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/KartikRaj9625/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/KartikRaj9625/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0743-network-delay-time](https://github.com/KartikRaj9625/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/KartikRaj9625/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/KartikRaj9625/Leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
@@ -154,6 +155,7 @@
 | [0200-number-of-islands](https://github.com/KartikRaj9625/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/KartikRaj9625/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/KartikRaj9625/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0743-network-delay-time](https://github.com/KartikRaj9625/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/KartikRaj9625/Leetcode/tree/master/0785-is-graph-bipartite) |
 ## Binary Search Tree
 |  |
@@ -180,6 +182,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/KartikRaj9625/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/KartikRaj9625/Leetcode/tree/master/0785-is-graph-bipartite) |
 ## Graph Coloring
 |  |
@@ -189,4 +192,16 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/KartikRaj9625/Leetcode/tree/master/0785-is-graph-bipartite) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/KartikRaj9625/Leetcode/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/KartikRaj9625/Leetcode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/KartikRaj9625/Leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
