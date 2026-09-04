@@ -78,6 +78,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KartikRaj9625/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0387-first-unique-character-in-a-string](https://github.com/KartikRaj9625/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KartikRaj9625/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Queue
 |  |
 | ------- |
@@ -230,4 +231,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KartikRaj9625/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KartikRaj9625/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
