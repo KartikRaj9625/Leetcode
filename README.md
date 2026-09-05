@@ -14,6 +14,7 @@
 | [0200-number-of-islands](https://github.com/KartikRaj9625/Leetcode/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/KartikRaj9625/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KartikRaj9625/Leetcode/tree/master/0283-move-zeroes) |
+| [0503-next-greater-element-ii](https://github.com/KartikRaj9625/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/KartikRaj9625/Leetcode/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/KartikRaj9625/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KartikRaj9625/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -237,6 +238,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KartikRaj9625/Leetcode/tree/master/0020-valid-parentheses) |
+| [0503-next-greater-element-ii](https://github.com/KartikRaj9625/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/KartikRaj9625/Leetcode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KartikRaj9625/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
@@ -246,5 +248,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/KartikRaj9625/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/KartikRaj9625/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
