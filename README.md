@@ -67,6 +67,7 @@
 | [0009-palindrome-number](https://github.com/KartikRaj9625/Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/KartikRaj9625/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/KartikRaj9625/Leetcode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/KartikRaj9625/Leetcode/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/KartikRaj9625/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/KartikRaj9625/Leetcode/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/KartikRaj9625/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/KartikRaj9625/Leetcode/tree/master/0412-fizz-buzz) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KartikRaj9625/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/KartikRaj9625/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Queue
@@ -253,4 +255,8 @@
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/KartikRaj9625/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/KartikRaj9625/Leetcode/tree/master/0739-daily-temperatures) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/KartikRaj9625/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
