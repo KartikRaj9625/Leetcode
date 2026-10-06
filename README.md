@@ -19,6 +19,7 @@
 | [0778-swim-in-rising-water](https://github.com/KartikRaj9625/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KartikRaj9625/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0994-rotting-oranges](https://github.com/KartikRaj9625/Leetcode/tree/master/0994-rotting-oranges) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KartikRaj9625/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/KartikRaj9625/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1631-path-with-minimum-effort](https://github.com/KartikRaj9625/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Hash Table
@@ -30,6 +31,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/KartikRaj9625/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/KartikRaj9625/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/KartikRaj9625/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KartikRaj9625/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Linked List
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/KartikRaj9625/Leetcode/tree/master/0268-missing-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KartikRaj9625/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
@@ -260,4 +263,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/KartikRaj9625/Leetcode/tree/master/0412-fizz-buzz) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KartikRaj9625/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
