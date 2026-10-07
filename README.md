@@ -46,6 +46,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/KartikRaj9625/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/KartikRaj9625/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/KartikRaj9625/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/KartikRaj9625/Leetcode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -70,6 +71,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/KartikRaj9625/Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/KartikRaj9625/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/KartikRaj9625/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KartikRaj9625/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/KartikRaj9625/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/KartikRaj9625/Leetcode/tree/master/0509-fibonacci-number) |
@@ -80,6 +82,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/KartikRaj9625/Leetcode/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/KartikRaj9625/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KartikRaj9625/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
