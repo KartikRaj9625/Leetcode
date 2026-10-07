@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/KartikRaj9625/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/KartikRaj9625/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/KartikRaj9625/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/KartikRaj9625/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/KartikRaj9625/Leetcode/tree/master/0509-fibonacci-number) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/KartikRaj9625/Leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/KartikRaj9625/Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/KartikRaj9625/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/KartikRaj9625/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KartikRaj9625/Leetcode/tree/master/0268-missing-number) |
