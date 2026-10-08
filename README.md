@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KartikRaj9625/Leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/KartikRaj9625/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/KartikRaj9625/Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/KartikRaj9625/Leetcode/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/KartikRaj9625/Leetcode/tree/master/0130-surrounded-regions) |
@@ -52,6 +53,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/KartikRaj9625/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/KartikRaj9625/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KartikRaj9625/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KartikRaj9625/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
