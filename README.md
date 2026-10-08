@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/KartikRaj9625/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KartikRaj9625/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/KartikRaj9625/Leetcode/tree/master/0039-combination-sum) |
+| [0053-maximum-subarray](https://github.com/KartikRaj9625/Leetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/KartikRaj9625/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KartikRaj9625/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0130-surrounded-regions](https://github.com/KartikRaj9625/Leetcode/tree/master/0130-surrounded-regions) |
@@ -287,9 +288,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/KartikRaj9625/Leetcode/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/KartikRaj9625/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/KartikRaj9625/Leetcode/tree/master/0509-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/KartikRaj9625/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
