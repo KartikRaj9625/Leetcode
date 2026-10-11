@@ -29,6 +29,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KartikRaj9625/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/KartikRaj9625/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1631-path-with-minimum-effort](https://github.com/KartikRaj9625/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1672-richest-customer-wealth](https://github.com/KartikRaj9625/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -225,6 +226,7 @@
 | [0778-swim-in-rising-water](https://github.com/KartikRaj9625/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/KartikRaj9625/Leetcode/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/KartikRaj9625/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1672-richest-customer-wealth](https://github.com/KartikRaj9625/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Graph Theory
 |  |
 | ------- |
