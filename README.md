@@ -11,6 +11,7 @@
 | [0078-subsets](https://github.com/KartikRaj9625/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KartikRaj9625/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikRaj9625/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KartikRaj9625/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/KartikRaj9625/Leetcode/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KartikRaj9625/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KartikRaj9625/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -291,6 +292,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/KartikRaj9625/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikRaj9625/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KartikRaj9625/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/KartikRaj9625/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -300,4 +302,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KartikRaj9625/Leetcode/tree/master/0053-maximum-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KartikRaj9625/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
