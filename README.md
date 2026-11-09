@@ -23,6 +23,7 @@
 | [0739-daily-temperatures](https://github.com/KartikRaj9625/Leetcode/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/KartikRaj9625/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KartikRaj9625/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/KartikRaj9625/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/KartikRaj9625/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0994-rotting-oranges](https://github.com/KartikRaj9625/Leetcode/tree/master/0994-rotting-oranges) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KartikRaj9625/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -77,6 +78,7 @@
 | [0268-missing-number](https://github.com/KartikRaj9625/Leetcode/tree/master/0268-missing-number) |
 | [0778-swim-in-rising-water](https://github.com/KartikRaj9625/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KartikRaj9625/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/KartikRaj9625/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1631-path-with-minimum-effort](https://github.com/KartikRaj9625/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Math
 |  |
