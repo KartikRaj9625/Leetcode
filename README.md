@@ -153,6 +153,7 @@
 | [0226-invert-binary-tree](https://github.com/KartikRaj9625/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/KartikRaj9625/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/KartikRaj9625/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/KartikRaj9625/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -169,6 +170,7 @@
 | [0743-network-delay-time](https://github.com/KartikRaj9625/Leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/KartikRaj9625/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/KartikRaj9625/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/KartikRaj9625/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/KartikRaj9625/Leetcode/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/KartikRaj9625/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
@@ -188,6 +190,7 @@
 | [0226-invert-binary-tree](https://github.com/KartikRaj9625/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/KartikRaj9625/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/KartikRaj9625/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/KartikRaj9625/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
