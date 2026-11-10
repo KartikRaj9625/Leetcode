@@ -16,6 +16,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KartikRaj9625/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KartikRaj9625/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/KartikRaj9625/Leetcode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/KartikRaj9625/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/KartikRaj9625/Leetcode/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/KartikRaj9625/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KartikRaj9625/Leetcode/tree/master/0283-move-zeroes) |
@@ -302,6 +303,7 @@
 | [0053-maximum-subarray](https://github.com/KartikRaj9625/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikRaj9625/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KartikRaj9625/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/KartikRaj9625/Leetcode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/KartikRaj9625/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
