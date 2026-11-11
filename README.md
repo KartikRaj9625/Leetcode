@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KartikRaj9625/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/KartikRaj9625/Leetcode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/KartikRaj9625/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/KartikRaj9625/Leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/KartikRaj9625/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KartikRaj9625/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikRaj9625/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -316,6 +317,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KartikRaj9625/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/KartikRaj9625/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikRaj9625/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KartikRaj9625/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/KartikRaj9625/Leetcode/tree/master/0198-house-robber) |
@@ -331,6 +333,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/KartikRaj9625/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KartikRaj9625/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Design
 |  |
