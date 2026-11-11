@@ -20,6 +20,7 @@
 | [0200-number-of-islands](https://github.com/KartikRaj9625/Leetcode/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/KartikRaj9625/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KartikRaj9625/Leetcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/KartikRaj9625/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0503-next-greater-element-ii](https://github.com/KartikRaj9625/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/KartikRaj9625/Leetcode/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/KartikRaj9625/Leetcode/tree/master/0778-swim-in-rising-water) |
@@ -132,6 +133,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/KartikRaj9625/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/KartikRaj9625/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Backtracking
 |  |
@@ -330,4 +332,8 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KartikRaj9625/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/KartikRaj9625/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
