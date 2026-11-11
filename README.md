@@ -24,6 +24,7 @@
 | [0739-daily-temperatures](https://github.com/KartikRaj9625/Leetcode/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/KartikRaj9625/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KartikRaj9625/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0853-car-fleet](https://github.com/KartikRaj9625/Leetcode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/KartikRaj9625/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/KartikRaj9625/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0994-rotting-oranges](https://github.com/KartikRaj9625/Leetcode/tree/master/0994-rotting-oranges) |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/KartikRaj9625/Leetcode/tree/master/0268-missing-number) |
+| [0853-car-fleet](https://github.com/KartikRaj9625/Leetcode/tree/master/0853-car-fleet) |
 | [0905-sort-array-by-parity](https://github.com/KartikRaj9625/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KartikRaj9625/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
@@ -285,6 +287,7 @@
 | [0020-valid-parentheses](https://github.com/KartikRaj9625/Leetcode/tree/master/0020-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/KartikRaj9625/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/KartikRaj9625/Leetcode/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/KartikRaj9625/Leetcode/tree/master/0853-car-fleet) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KartikRaj9625/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KartikRaj9625/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/KartikRaj9625/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -297,6 +300,7 @@
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/KartikRaj9625/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/KartikRaj9625/Leetcode/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/KartikRaj9625/Leetcode/tree/master/0853-car-fleet) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KartikRaj9625/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Simulation
 |  |
