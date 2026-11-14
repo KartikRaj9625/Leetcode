@@ -9,6 +9,7 @@
 | [0039-combination-sum](https://github.com/KartikRaj9625/Leetcode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/KartikRaj9625/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/KartikRaj9625/Leetcode/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/KartikRaj9625/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/KartikRaj9625/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KartikRaj9625/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KartikRaj9625/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KartikRaj9625/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/KartikRaj9625/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KartikRaj9625/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/KartikRaj9625/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KartikRaj9625/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -108,6 +110,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/KartikRaj9625/Leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/KartikRaj9625/Leetcode/tree/master/0268-missing-number) |
 | [0853-car-fleet](https://github.com/KartikRaj9625/Leetcode/tree/master/0853-car-fleet) |
 | [0905-sort-array-by-parity](https://github.com/KartikRaj9625/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -339,4 +342,12 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/KartikRaj9625/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/KartikRaj9625/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/KartikRaj9625/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
