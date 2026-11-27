@@ -27,11 +27,10 @@ public:
             for (int i = 0; i < str.size(); i++) {
                 char c = str[i];
 
-                for (int j = 97; j <= 122; j++) {
-                    if (c == j)
-                        continue;
-
-                    str[i] = j;
+                for (char ch='a'; ch<='z'; ch++) {
+                    // if (c == j)
+                    //     continue;
+                    str[i] = ch;
                     if (map.find(str) != map.end()) {
                         q.push({str, val + 1});
                         map.erase(str);
