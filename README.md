@@ -43,6 +43,7 @@
 | [0001-two-sum](https://github.com/KartikRaj9625/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KartikRaj9625/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/KartikRaj9625/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/KartikRaj9625/Leetcode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/KartikRaj9625/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KartikRaj9625/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/KartikRaj9625/Leetcode/tree/master/0268-missing-number) |
@@ -121,6 +122,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/KartikRaj9625/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/KartikRaj9625/Leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/KartikRaj9625/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/KartikRaj9625/Leetcode/tree/master/0127-word-ladder) |
 | [0345-reverse-vowels-of-a-string](https://github.com/KartikRaj9625/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/KartikRaj9625/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/KartikRaj9625/Leetcode/tree/master/0412-fizz-buzz) |
@@ -174,6 +176,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/KartikRaj9625/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/KartikRaj9625/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/KartikRaj9625/Leetcode/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/KartikRaj9625/Leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/KartikRaj9625/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/KartikRaj9625/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/KartikRaj9625/Leetcode/tree/master/0226-invert-binary-tree) |
@@ -356,4 +359,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KartikRaj9625/Leetcode/tree/master/0075-sort-colors) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/KartikRaj9625/Leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
